@@ -1,7 +1,7 @@
 // An object is a container that encapulates data referencing to one thing(aperson or something )
 
 // Example of an object student
-student={
+var student={
     name:"Sindet",
     school:"AkiraChix",
     class:"lovelace",
